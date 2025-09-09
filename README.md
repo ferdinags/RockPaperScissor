@@ -1,0 +1,14 @@
+# 🎮 Rock Paper Scissors – Python Project
+
+Project sederhana permainan **Batu, Gunting, Kertas (Rock Paper Scissors)** dibuat menggunakan bahasa pemrograman **Python**.  
+Dijalankan di terminal/console dengan input dari pengguna dan pilihan acak dari komputer.
+
+---
+
+## 🚀 Fitur
+- Pemain memilih: **Rock / Paper / Scissors**.
+- Komputer memilih secara acak menggunakan modul `random`.
+- Menampilkan hasil: **Menang / Kalah / Seri**.
+- Bisa dijalankan langsung di **GitHub Codespaces** atau lokal.
+
+---
